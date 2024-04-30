@@ -12,10 +12,6 @@
   <img alt="MatLab" src="https://img.shields.io/badge/-MatLab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
   <img alt="Assembly Language" src="https://img.shields.io/badge/-Assembly-008000?style=flat-square&logoColor=white" />
   <img alt="Time Series Machine Learning" src="https://img.shields.io/badge/-Time_Series_Machine_Learning-FF6F61?style=flat-square&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MatLab" src="https://img.shields.io/badge/-MatLab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img alt="Assembly Language" src="https://img.shields.io/badge/-Assembly-008000?style=flat-square&logoColor=white" />
 </p>
 
 
