@@ -42,8 +42,9 @@
 
 ### 💻 OS Known
 <p>
-  Windows, Ubuntu
+  Windows, Ubuntu, Linux
 </p>
+
 
 ### 🌍 Connect With Me
 <p>
