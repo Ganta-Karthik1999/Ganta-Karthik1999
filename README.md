@@ -52,6 +52,3 @@
   <!-- Add more social media links here -->
 </p>
 
-------------
-<p align="center">This <i>README</i> file is auto-generated and updated regularly.</br>Last refreshed: TIMESTAMP_HERE<br />[Learn how to create your own self-updating README here!](YOUR_MEDIUM_ARTICLE_LINK)</p>
-<p align="center"><img src="YOUR_BADGE_IMAGE_URL" /> <img alt="Stars" src="YOUR_GITHUB_STARS_BADGE_URL" /> <img alt="Forks" src="YOUR_GITHUB_FORKS_BADGE_URL"/></p>
