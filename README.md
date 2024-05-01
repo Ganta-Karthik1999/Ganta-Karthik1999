@@ -1,3 +1,6 @@
+<img src="https://drive.google.com/uc?id=1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p" alt="Image" width="500">
+
+
 <h1> Hello there! Nice to see you.</h1>
 
 <p>Welcome to my GitHub profile! I'm Karthik Ganta, an Embedded Software Developer passionate about crafting efficient and innovative solutions.</p>
