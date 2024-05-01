@@ -88,7 +88,7 @@
 | FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
 
 
-### 🌍 Connect With Me
+
 <p>
 
 
