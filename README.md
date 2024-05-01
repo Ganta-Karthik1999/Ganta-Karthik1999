@@ -1,6 +1,41 @@
 <h1><img src="YOUR_IMAGE_URL" width="30"/> Hello there! Nice to see you.</h1>
 
 <p>Welcome to my GitHub profile! I'm Karthik Ganta, an Embedded Software Developer passionate about crafting efficient and innovative solutions.</p>
+<h3>I am Working On</h3>
+<ul>
+  <li>Embedded software development</li>
+  <li>C++ programming</li>
+  <li>FreeRTOS projects</li>
+</ul>
+
+<h3>Collaborating On</h3>
+<ul>
+  <li>Embedded systems projects</li>
+  <li>Open-source software development</li>
+</ul>
+
+<h3>Looking for Help In</h3>
+<ul>
+  <li>Finding internship opportunities in Embedded Software Development</li>
+</ul>
+
+<h3>Currently Learning</h3>
+<ul>
+  <li>ROS (Robot Operating System)</li>
+  <li>Yocto Project for embedded Linux development</li>
+</ul>
+
+<h3>Ask Me About</h3>
+<ul>
+  <li>Embedded software development</li>
+  <li>C++ programming</li>
+  <li>FreeRTOS</li>
+</ul>
+
+<h3>Fun Fact</h3>
+<p>I enjoy exploring new hardware platforms and tinkering with electronics in my free time!</p>
+
+
 
 ### 🛠️ Technologies I Work With
 <p>
@@ -44,7 +79,6 @@
 <p>
   Windows, Ubuntu, Linux
 </p>
-
 
 | Programming Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
