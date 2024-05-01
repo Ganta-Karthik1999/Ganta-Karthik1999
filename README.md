@@ -88,9 +88,25 @@
 | FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
 
 
+### 🌍 Connect With Me
+<p>
+
+
+</p>
+
+| Projects | Repository Links                                  |
+|--------------------|---------------------------------------------------|
+| C Projects         | [Link to C Projects Repository](https://github.com/your_username/c-projects)        |
+| C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
+| Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
+| FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
+
 
 ### 🌍 Connect With Me
 <p>
+
+
+  
   <a href="YOUR_GITHUB_PROFILE_URL" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <!-- Add more social media links here -->
 </p>
