@@ -1,4 +1,4 @@
-<h1><img src="YOUR_IMAGE_URL" width="30"/> Hello there! Nice to see you.</h1>
+<h1><img src="[YOUR_IMAGE_URL](https://drive.google.com/file/d/1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p/view?usp=sharing)" width="30"/> Hello there! Nice to see you.</h1>
 
 <p>Welcome to my GitHub profile! I'm Karthik Ganta, an Embedded Software Developer passionate about crafting efficient and innovative solutions.</p>
 <h3>I am Working On</h3>
