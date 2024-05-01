@@ -52,18 +52,6 @@
   <img alt="Time Series Machine Learning" src="https://img.shields.io/badge/-Time_Series_Machine_Learning-FF6F61?style=flat-square&logoColor=white" />
 </p>
 
-### 🛠️ Technologies I Work With
-<p>
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MatLab" src="https://img.shields.io/badge/-MatLab-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-  <img alt="Assembly Language" src="https://img.shields.io/badge/-Assembly-008000?style=flat-square&logoColor=white" />
-  <img alt="Time Series Machine Learning" src="https://img.shields.io/badge/-Time_Series_Machine_Learning-FF6F61?style=flat-square&logoColor=white" />
-</p>
-
 ### 🌐 Microprocessor Devices
 <p>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-008000?style=flat-square&logo=arduino&logoColor=white" />
