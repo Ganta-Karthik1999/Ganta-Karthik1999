@@ -112,7 +112,7 @@
 
 | Programming Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
-| C Projects         | [Link to C Projects Repository](https://github.com/your_username/c-projects)        |
+| C Projects         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
 | C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
 | Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
 | FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
