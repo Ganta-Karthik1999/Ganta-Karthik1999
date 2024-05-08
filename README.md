@@ -4,41 +4,6 @@
 <h1> Hello there! Nice to see you.</h1>
 
 <p>Welcome to my GitHub profile! I'm Karthik Ganta, an Embedded Software Developer passionate about crafting efficient and innovative solutions.</p>
-<h3>I am Working On</h3>
-<ul>
-  <li>Embedded software development</li>
-  <li>C++ programming</li>
-  <li>FreeRTOS projects</li>
-</ul>
-
-<h3>Collaborating On</h3>
-<ul>
-  <li>Embedded systems projects</li>
-  <li>Open-source software development</li>
-</ul>
-
-<h3>Looking for Help In</h3>
-<ul>
-  <li>Finding internship opportunities in Embedded Software Development</li>
-</ul>
-
-<h3>Currently Learning</h3>
-<ul>
-  <li>ROS (Robot Operating System)</li>
-  <li>Yocto Project for embedded Linux development</li>
-</ul>
-
-<h3>Ask Me About</h3>
-<ul>
-  <li>Embedded software development</li>
-  <li>C++ programming</li>
-  <li>FreeRTOS</li>
-</ul>
-
-<h3>Fun Fact</h3>
-<p>I enjoy exploring new hardware platforms and tinkering with electronics in my free time!</p>
-
-
 
 ### 🛠️ Technologies I Work With
 <p>
@@ -112,28 +77,21 @@
 
 # Hardware Programs :
 
-Arduino : 
 
-
-| Programming Sample | Repository Links                                  |
+| Programming Sample | Repository Links                                  | 
 |--------------------|---------------------------------------------------|
-| Communcation Devices         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
-| Communication Protocols       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
-| Sensor Interfaced     | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
-| Actuator Interfaced  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
-| Web Interface  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
+| Arduino C         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
+| Raspberry pi      | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
+| FreeRTOS     | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
 
 
-
-
+# Software Programs :
 
 | Programming Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
 | C Projects         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
 | C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
 | Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
-| FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
-
 
 
 ### 🌍 Connect With Me
