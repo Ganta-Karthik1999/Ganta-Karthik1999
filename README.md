@@ -110,6 +110,23 @@
   Windows, Ubuntu, Linux
 </p>
 
+# Hardware Programs :
+
+Arduino : 
+
+
+| Programming Sample | Repository Links                                  |
+|--------------------|---------------------------------------------------|
+| Communcation Devices         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
+| Communication Protocols       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
+| Sensor Interfaced     | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
+| Actuator Interfaced  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
+| Web Interface  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
+
+
+
+
+
 | Programming Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
 | C Projects         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
@@ -117,19 +134,6 @@
 | Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
 | FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
 
-
-
-<p>
-
-
-</p>
-
-| Projects | Repository Links                                  |
-|--------------------|---------------------------------------------------|
-| C Projects         | [Link to C Projects Repository](https://github.com/your_username/c-projects)        |
-| C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
-| Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
-| FreeRTOS Projects  | [Link to FreeRTOS Projects Repository](https://github.com/your_username/freertos-projects) |
 
 
 ### 🌍 Connect With Me
