@@ -82,7 +82,7 @@
 |--------------------|---------------------------------------------------|
 | Arduino C         | [Link to Arduino Repository](https://github.com/Ganta-Karthik1999/Arduino_Code.git)        |
 | Raspberry pi      | [Link to Raspberry pi Repository](https://github.com/Ganta-Karthik1999/Raspberry-pi.git)    |
-| FreeRTOS     | [Link to FreeRTOS Repository](https://github.com/your_username/rust-projects)  |
+| FreeRTOS     | [Link to FreeRTOS Repository](https://github.com/Ganta-Karthik1999/FREERTOS.git)  |
 
 
 # Software Programs :
