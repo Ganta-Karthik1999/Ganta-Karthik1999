@@ -92,7 +92,7 @@
 | C Projects         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
 | C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
 | Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
-| Socket Programming      | [Link to Rust Projects Repository](https://github.com/Ganta-Karthik1999/socket_Programming.git)  |
+| Socket Programming      | [Link to Socket Programming Repository](https://github.com/Ganta-Karthik1999/socket_Programming.git)  |
 
 
 ### 🌍 Connect With Me
