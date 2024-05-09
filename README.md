@@ -93,6 +93,7 @@
 | C++ Projects       | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
 | Rust Projects      | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
 | Socket Programming      | [Link to Socket Programming Repository](https://github.com/Ganta-Karthik1999/socket_Programming.git)  |
+| OPENCV      | [Link to Socket Programming Repository](https://github.com/Ganta-Karthik1999/OPENCV.git)  |
 
 
 ### 🌍 Connect With Me
