@@ -81,7 +81,7 @@
 | Programming Sample | Repository Links                                  | 
 |--------------------|---------------------------------------------------|
 | Arduino C         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/Arduino_Code.git)        |
-| Raspberry pi      | [Link to C++ Projects Repository](https://github.com/your_username/cpp-projects)    |
+| Raspberry pi      | [Link to C++ Projects Repository](https://github.com/Ganta-Karthik1999/Raspberry-pi.git)    |
 | FreeRTOS     | [Link to Rust Projects Repository](https://github.com/your_username/rust-projects)  |
 
 
