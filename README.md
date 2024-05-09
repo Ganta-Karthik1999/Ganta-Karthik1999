@@ -101,7 +101,7 @@
 
 
   
-  <a href="[YOUR_GITHUB_PROFILE_URL](https://github.com/Ganta-Karthik1999)" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="(https://github.com/Ganta-Karthik1999)" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kar12/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <!-- Add more social media links here -->
 </p>
