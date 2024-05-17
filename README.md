@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p" alt="Image" width="500">
+<img src="https://drive.google.com/file/d/1Ho32b5_bGJiU4q0aG-UGFhKbUQ-iMdEV/view?usp=drive_link" alt="Image" width="500">
 
 
 <h1> Hello there! Nice to see you.</h1>
@@ -100,7 +100,7 @@
 
 | Project Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
-| ![Bomb Disposable Robot](https://drive.google.com/file/d/1Ho32b5_bGJiU4q0aG-UGFhKbUQ-iMdEV)         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
+| ![Bomb Disposable Robot]()         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
 | ![C++ Projects](https://link-to-your-image.jpg)       | [Link to C++ Projects Repository](https://github.com/Ganta-Karthik1999/Cpp.git)    |
 | ![Rust Projects](https://link-to-your-image.jpg)      | [Link to Rust Projects Repository](https://github.com/Ganta-Karthik1999/Rust_Programming.git)  |
 | ![Socket Programming](https://link-to-your-image.jpg) | [Link to Socket Programming Repository](https://github.com/Ganta-Karthik1999/socket_Programming.git)  |
