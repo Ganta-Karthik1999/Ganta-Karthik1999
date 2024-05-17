@@ -96,6 +96,17 @@
 | OPENCV      | [Link to OPENCV Repository](https://github.com/Ganta-Karthik1999/OPENCV.git)  |
 
 
+# Projects :
+
+| Project Sample | Repository Links                                  |
+|--------------------|---------------------------------------------------|
+| ![Bomb Disposable Robot](https://drive.google.com/file/d/1G8ERxGfp-D7oAJEhEjwcuXt3nZCGSE5p/view?usp=drive_link)         | [Link to C Projects Repository](https://github.com/Ganta-Karthik1999/C-Language.git)        |
+| ![C++ Projects](https://link-to-your-image.jpg)       | [Link to C++ Projects Repository](https://github.com/Ganta-Karthik1999/Cpp.git)    |
+| ![Rust Projects](https://link-to-your-image.jpg)      | [Link to Rust Projects Repository](https://github.com/Ganta-Karthik1999/Rust_Programming.git)  |
+| ![Socket Programming](https://link-to-your-image.jpg) | [Link to Socket Programming Repository](https://github.com/Ganta-Karthik1999/socket_Programming.git)  |
+| ![OPENCV](https://link-to-your-image.jpg)             | [Link to OPENCV Repository](https://github.com/Ganta-Karthik1999/OPENCV.git)  |
+
+
 ### 🌍 Connect With Me
 <p>
 
