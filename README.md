@@ -101,7 +101,7 @@
 | Project Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
 | ![Bomb Disposable Robot](https://drive.google.com/uc?id=1Ho32b5_bGJiU4q0aG-UGFhKbUQ-iMdEV)         | [Link to Bomb Disposal Robot Project ](https://github.com/Ganta-Karthik1999/Bomb-Disposal-Robot.git)        |
-| ![Bomb Disposable Robot](https://drive.google.com/uc?id=1tsdRxgvnk90lwL96dwbGrv3GEP1BSb7Z)  | [Link to Bomb Disposal Robot Project ](https://github.com/Ganta-Karthik1999/Bomb-Disposal-Robot.git)        |
+| ![Bomb Disposable Robot](https://drive.google.com/uc?id=1tsdRxgvnk90lwL96dwbGrv3GEP1BSb7Z)  | [IOT-Based-Agriculture-Monitoring-system ](https://github.com/Ganta-Karthik1999/IOT-Based-Agriculture-Monitoring-system.git)        |
 
 
 ### 🌍 Connect With Me
