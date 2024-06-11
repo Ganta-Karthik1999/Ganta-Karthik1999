@@ -101,7 +101,7 @@
 | Project Sample | Repository Links                                  |
 |--------------------|---------------------------------------------------|
 | ![Bomb Disposable Robot](https://drive.google.com/uc?id=1Ho32b5_bGJiU4q0aG-UGFhKbUQ-iMdEV)         | [Link to Bomb Disposal Robot Project ](https://github.com/Ganta-Karthik1999/Bomb-Disposal-Robot.git)        |
-| ![Bomb Disposable Robot](https://drive.google.com/file/d/1EbPf_JJ8iFvvJSyZlnqwBd7QQVM8debX/view?usp=sharing)         | [Link to Bomb Disposal Robot Project ](https://github.com/Ganta-Karthik1999/Bomb-Disposal-Robot.git)        |
+| ![Bomb Disposable Robot](https://drive.google.com/file/d/1EbPf_JJ8iFvvJSyZlnqwBd7QQVM8debX/view?usp=drive_link)  | [Link to Bomb Disposal Robot Project ](https://github.com/Ganta-Karthik1999/Bomb-Disposal-Robot.git)        |
 
 
 ### 🌍 Connect With Me
